@@ -1,0 +1,5 @@
+char[32] namaKontak1 = "Ayu";
+char[32] namaKontak2 = "Bunga";
+char[32] namaKontak3 = "Cyntia";
+char[32] namaKontak4 = "Deni";
+char[32] namaKontak5 = "Elisa";
